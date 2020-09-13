@@ -1,7 +1,8 @@
  
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   # books-search2.0
-  ![]("Screenshot.png")
+  ![](/Screenshot.png)
+
   https://book-search-two.herokuapp.com/
   ## Description 
   
@@ -10,9 +11,7 @@
 
   ## Table of Contents  
   * [Usage](#usage)
-  * [Contributors](#contibutors)
   * [License](#license)
-  * [Test](#test)
   * [Questions](#questions)
   
  
